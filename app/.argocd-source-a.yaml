@@ -1,2 +1,4 @@
-.spec.source.path: app//
-.spec.source.directory.exclude: '{namespace.yaml}'
+kustomize:
+  images:
+    - gcr.io/heptio-images/ks-guestbook-demo:0.2
+

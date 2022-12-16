@@ -1,0 +1,3 @@
+source:
+  directory:
+      exclude: '{namespace.yaml}'

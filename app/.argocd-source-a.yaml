@@ -1,4 +1,3 @@
-kustomize:
-  images:
-    - gcr.io/heptio-images/ks-guestbook-demo:0.2
+directory:
+  exclude: '{namespace.yaml}'
 

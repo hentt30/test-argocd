@@ -1,1 +1,2 @@
-exclude: '{namespace.yaml}'
+path: app//
+directory.exclude: '{namespace.yaml}'
